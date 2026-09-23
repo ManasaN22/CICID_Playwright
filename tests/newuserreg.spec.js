@@ -24,3 +24,10 @@ test("gITHUB ACTIONS", async({lpvar,page,regivar})=>
     await lpvar.newusermethod()
     
 })
+
+test("changes from github central repo", async({lpvar,page,regivar})=>
+{
+    await page.goto("/login")
+    await lpvar.newusermethod()
+    
+})
