@@ -17,3 +17,10 @@ test("new reg", async({lpvar,page,regivar})=>
 
     console.log(await page.url())
 })
+
+test("gITHUB ACTIONS", async({lpvar,page,regivar})=>
+{
+    await page.goto("/login")
+    await lpvar.newusermethod()
+    
+})
