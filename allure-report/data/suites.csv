@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6657","new reg","chromium","2026-09-22","failed","2026-09-22","","newuserreg.spec.js","",""
+"","6558","new reg","webkit","2026-09-22","passed","2026-09-22","","newuserreg.spec.js","",""
+"","4741","new reg","firefox","2026-09-22","passed","2026-09-22","","newuserreg.spec.js","",""

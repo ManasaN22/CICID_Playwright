@@ -1,0 +1,9 @@
+insdie fixture
+insdie fixture
+calling method inside loginpage1
+calling click in basepage
+calling click in basepage
+calling click in basepage
+calling click in basepage
+test data used is manasa1790076837215@email.com
+https://freelance-learn-automation.vercel.app/login

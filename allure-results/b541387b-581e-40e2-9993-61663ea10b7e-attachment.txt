@@ -1,0 +1,8 @@
+insdie fixture
+insdie fixture
+calling method inside loginpage1
+calling click in basepage
+calling click in basepage
+calling click in basepage
+calling click in basepage
+test data used is manasa1790077486055@email.com
