@@ -1,7 +1,4 @@
-import {expect} from "@playwright/test"
-import { test } from "../Fixtures/fixtures.js";
-import data from "../testdata/users.json"
-
+import {test, expect} from "@playwright/test"
 test("jenkins log", async({'page'})=>
     {
 
