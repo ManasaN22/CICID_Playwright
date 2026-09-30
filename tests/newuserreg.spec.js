@@ -1,11 +1,9 @@
-import {test, expect} from "@playwright/test"
-test("jenkins log", async({'page'})=>
-    {
+import { test } from "@playwright/test";
 
-        console.log("1st teest case excuted")
-    })
-test("jenkins 2", async({'page'})=>
-    {
+test("jenkins log", async () => {
+    console.log("1st test case executed");
+});
 
-        console.log("2st teest case excuted")
-    })
+test("jenkins 2", async () => {
+    console.log("2nd test case executed");
+});
